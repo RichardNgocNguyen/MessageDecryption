@@ -1,0 +1,13 @@
+Plaintext: He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.
+Modified Key: WISDOMABCEFGHJKLZPQRTUVNYX
+Encrypted: BO VBK MCABRQ VCRB HKJQROPQ QBKTGD GKKF RK CR RBWR BO BCHQOGM DKOQ JKR IOSKHO W HKJQROP. WJD CM YKT AWXO GKJA CJRK WJ WIYQQ, RBO WIYQQ WGQK AWXOQ CJRK YKT.
+
+
+Plaintext: There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
+Modified Key: OCWLEZPDUKNRIMAJGHXYBVFSTQ
+Encrypted: YDEHE UX O YDEAHT FDUWD XYOYEX YDOY UZ EVEH OMTCALT LUXWAVEHX ESOWYRT FDOY YDE BMUVEHXE UX ZAH OML FDT UY UX DEHE, UY FURR UMXYOMYRT LUXOJJEOH OML CE HEJROWEL CT XAIEYDUMP EVEM IAHE CUQOHHE OML UMESJRUWOCRE. YDEHE UX OMAYDEH YDEAHT FDUWD XYOYEX YDOY YDUX DOX ORHEOLT DOJJEMEL.
+
+
+Plaintext: Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off - then, I account it high time to get to sea as soon as I can.
+Modified Key: YNZBTWUKOSEFVRQMCIGPDJLXAH
+Encrypted: LKTRTJTI O WORB VAGTFW UIQLORU UIOV YNQDP PKT VQDPK; LKTRTJTI OP OG Y BYVM, BIOHHFA RQJTVNTI OR VA GQDF; LKTRTJTI O WORB VAGTFW ORJQFDRPYIOFA MYDGORU NTWQIT ZQWWOR LYITKQDGTG, YRB NIORUORU DM PKT ITYI QW TJTIA WDRTIYF O VTTP; YRB TGMTZOYFFA LKTRTJTI VA KAMQG UTP GDZK YR DMMTI KYRB QW VT, PKYP OP ITCDOITG Y GPIQRU VQIYF MIORZOMFT PQ MITJTRP VT WIQV BTFONTIYPTFA GPTMMORU ORPQ PKT GPITTP, YRB VTPKQBOZYFFA ERQZEORU MTQMFT'G KYPG QWW - PKTR, O YZZQDRP OP KOUK POVT PQ UTP PQ GTY YG GQQR YG O ZYR.
